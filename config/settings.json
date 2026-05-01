@@ -1,0 +1,14 @@
+{
+  "output_dir": ".\\data\\output",
+  "log_dir": ".\\data\\logs",
+  "chrome_profile_dir": ".\\data\\chrome_profile",
+  "headless": false,
+  "scan_only_groups": true,
+  "read_only_today": true,
+  "max_sidebar_scrolls": 50,
+  "wait_seconds": 20,
+  "max_messages_per_chat": 250,
+  "max_chats_to_process": 100,
+  "sidebar_pause_seconds": 1.2,
+  "chat_open_pause_seconds": 2.0
+}

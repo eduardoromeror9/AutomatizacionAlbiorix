@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.xlsx
+*.log
+.env
+.venv/
+venv/
+data/chrome_profile/
+data/output/
+data/logs/

@@ -1,0 +1,12 @@
+execution_date
+group_name
+chat_name
+message_date
+message_time
+sender
+detected_name
+detected_rut
+category
+variant
+status
+message_text

@@ -1,0 +1,7 @@
+{
+  "rol": ["rol", "xrol", "x rol", "por rol"],
+  "extra": ["extra", "xextra", "x extra", "por extra"],
+  "pauta": ["pauta", "xpauta", "x pauta", "por pauta"],
+  "apoyo": ["apoyo"],
+  "traslado": ["traslado"]
+}
