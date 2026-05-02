@@ -31,3 +31,5 @@ def read_visible_messages(driver, chat_name, settings, logger):
 
     logger.info("Mensajes visibles leídos en %s: %s", chat_name, len(messages))
     return messages
+
+

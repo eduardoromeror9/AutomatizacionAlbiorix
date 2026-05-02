@@ -30,7 +30,9 @@ class ParsedRecord:
     variant: str
     status: str
     message_text: str
-    notes: str = ""
+    notes: str
+    local: str = ""
+    comuna: str = ""
 
 @dataclass
 class RunSummary:

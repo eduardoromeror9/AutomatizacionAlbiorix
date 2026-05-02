@@ -6,9 +6,11 @@
   "scan_only_groups": true,
   "read_only_today": true,
   "max_sidebar_scrolls": 50,
-  "wait_seconds": 20,
+  "wait_seconds": 30,
   "max_messages_per_chat": 250,
-  "max_chats_to_process": 100,
+  "max_chats_to_process": 1,
   "sidebar_pause_seconds": 1.2,
-  "chat_open_pause_seconds": 2.0
+  "chat_open_pause_seconds": 2.0,
+  "demo_mode": true,
+  "target_chat_name": "Mtlf"
 }
